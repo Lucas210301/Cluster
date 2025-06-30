@@ -1,0 +1,36 @@
+RELATÓRIO EXECUTIVO - ALGORITMO MRDCA-RWL
+==================================================
+Data/Hora: 06/06/2025 15:01:09
+Número de testes por base: 50
+Critério de parada: 30 iterações ou convergência
+
+
+BASE DE DADOS: Iris
+------------------------------
+Número de objetos: 150
+Número de clusters: 3
+ARI Médio: 0.7516 ± 0.0156
+NMI Médio: 0.7784 ± 0.0172
+Silhouette Médio: 0.5245 ± 0.0103
+Iterações Médias: 4.42 ± 0.67
+
+
+BASE DE DADOS: Wine
+------------------------------
+Número de objetos: 178
+Número de clusters: 3
+ARI Médio: 0.3840 ± 0.0095
+NMI Médio: 0.4322 ± 0.0026
+Silhouette Médio: 0.5673 ± 0.0031
+Iterações Médias: 5.04 ± 1.07
+
+
+BASE DE DADOS: Digits
+------------------------------
+Número de objetos: 500
+Número de clusters: 10
+ARI Médio: 0.4456 ± 0.0728
+NMI Médio: 0.6029 ± 0.0553
+Silhouette Médio: 0.1331 ± 0.0284
+Iterações Médias: 9.64 ± 9.02
+
